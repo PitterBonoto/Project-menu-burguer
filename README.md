@@ -18,6 +18,6 @@
 <h5>O vídeo abaixo mostra o usuário aplicando comandos nos botões e retornando na tela emn forma de cardápio o array manipulado de acordo com o comando executado.</h5>
 <br>
 
-<img  src="https://github.com/PitterBonoto/Project-Jo-ken-po/blob/main/assets/gif-readme.gif?raw=true">
+<img  src="https://github.com/PitterBonoto/Project-menu-burguer/blob/main/assets/img-readme.gif?raw=true">
 
 
